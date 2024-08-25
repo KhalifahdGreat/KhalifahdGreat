@@ -36,8 +36,10 @@
 </p>
 
 - 🌱 I’m currently learning **Swift,Kotlin and touching up on my backend
-skills.** - 💬 Ask me about **CI/CD** - 📫 How to reach me
-**abubakaronumoh@gmail.com** - ⚡ Fun fact **I think am funny and at the same
+skills.**
+- 💬 Ask me about **CI/CD**
+- 📫 How to reach me **abubakaronumoh@gmail.com**
+- ⚡ Fun fact **I think am funny and at the same
 time serious.**
 
 <h3 align="left">Connect with me:</h3>
