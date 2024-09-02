@@ -4,7 +4,13 @@
   <tr>
     <td>
       <h3 align="left">
-        I'm a skilled software engineer specializing in full-stack cross-platform mobile development with React Native and native iOS development in Swift. My expertise extends to web development using React, Next.js, and TypeScript, and backend technologies including MongoDB, MySQL, PostgreSQL, and Firebase. I also have strong DevOps experience with CI/CD pipelines, containerization, and cloud platforms like AWS. Proficient in UI/UX design with Figma and Infrastructure as Code using Terraform. Let's connect to build innovative solutions!
+   I'm an experienced DevOps and DevSecOps engineer with a strong background in building and managing CI/CD pipelines, containerization using Docker, and Infrastructure as Code (IaC) with Terraform. My expertise spans across cloud platforms, particularly GCP and AWS, where I've successfully deployed and managed scalable applications.
+
+In addition to my DevOps skills, I specialize in full-stack cross-platform mobile development using React Native and native iOS development in Swift. I have a solid foundation in web development with React, Next.js, and TypeScript, and I'm proficient in backend technologies like MongoDB, MySQL, PostgreSQL, and Firebase.
+
+With my experience in optimizing infrastructure, ensuring security best practices, and automating deployments, I'm confident that I can contribute effectively to building systems that connect clinics, doctors, and patients, and provide valuable data insights to assist doctors.
+
+I'm excited about the opportunity to leverage my skills in GCP, Docker, CI/CD, and Terraform to drive innovative solutions. Let’s connect to discuss how I can contribute to your team's success!
       </h3>
     </td>
     <td>
