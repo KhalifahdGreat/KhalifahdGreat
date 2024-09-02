@@ -8,7 +8,7 @@
 
 In addition to my DevOps skills, I specialize in full-stack cross-platform mobile development using React Native and native iOS development in Swift. I have a solid foundation in web development with React, Next.js, and TypeScript, and I'm proficient in backend technologies like MongoDB, MySQL, PostgreSQL, and Firebase.
 
-With my experience in optimizing infrastructure, ensuring security best practices, and automating deployments, I'm confident that I can contribute effectively to building systems that connect clinics, doctors, and patients, and provide valuable data insights to assist doctors.
+With my experience in optimizing infrastructure, ensuring security best practices, and automating deployments, I'm confident that I can contribute effectively to building robust systems that can serve the needs of users on demand.
 
 I'm excited about the opportunity to leverage my skills in GCP, Docker, CI/CD, and Terraform to drive innovative solutions. Let’s connect to discuss how I can contribute to your team's success!
       </h3>
